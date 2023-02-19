@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "362010586097",
+    "project_id": "patient-companion-75ea0",
+    "storage_bucket": "patient-companion-75ea0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:362010586097:android:ab5991727b21f6613f3250",
+        "android_client_info": {
+          "package_name": "com.example.patientcompanion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "362010586097-qoc00vso5nh507o22p3i0ko7stif8ijt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtTA4_E_5JLVNowGy4SJj7IItgagpTsaA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "362010586097-beijt6v5k47oqdnbt1ni1btqoac6ikr2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "362010586097-aodpsckvqe5kr1ggqd14k05adfacrsun.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.patientcompanion"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
