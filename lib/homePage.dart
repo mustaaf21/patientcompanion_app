@@ -64,7 +64,7 @@ class HomePage extends StatelessWidget {
                 ),
                 const SizedBox(height: 40),
                 FloatingActionButton.large(
-                       backgroundColor:  Color.fromRGBO(207, 245, 255, 1.0),
+                       backgroundColor:  Color.fromRGBO(207, 244, 255, 1.0),
                        onPressed: () {},
                        child: Icon(Icons.arrow_upward, size: 90, color: Colors.black,),
                        ),
